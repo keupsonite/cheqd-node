@@ -137,6 +137,7 @@ require (
 
 replace (
 	github.com/cosmos/cosmos-sdk => github.com/cheqd/cosmos-sdk v0.45.4-cheqd-tag
+	github.com/cosmos/ibc-go => github.com/keupsonite/cheqd-ibc-go v1.4.1-OnChanCloseInit
 
 	// Fix upstream GHSA-h395-qcrw-5vmq vulnerability.
 	github.com/gin-gonic/gin => github.com/gin-gonic/gin v1.7.0
